@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <h1>
-    Hello, I'm Shedgecock! 🏄
+    Hello, I'm Sean! 🏄
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
