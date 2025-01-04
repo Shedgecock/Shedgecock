@@ -1,8 +1,8 @@
 <!-- Header -->
 <div align="center">
   <h1>
-    Hello, I'm Sean! 🏄
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hello, world! 🏄
+   
   </h1>
   
   <div>
@@ -14,7 +14,7 @@
 <!-- About Me Section -->
 ## 🔧 About Me
 
-I'm a Mechanical Engineer with a passion for Computer Science, bridging the gap between physical systems and digital solutions. I combine engineering principles with programming to create innovative solutions.
+I'm a Mechanical Engineer with a passion for Computer Science, bridging the gap between physical systems and digital solutions. I combine engineering principles with programming to bring creative ideas to life.
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
@@ -35,9 +35,9 @@ I'm a Mechanical Engineer with a passion for Computer Science, bridging the gap 
 
 <!-- Current Focus -->
 ## 🎯 Current Focus
-- 🔭 Working on: University Rover challenge Remote Communications Division || Formula SAE Ergonomic Jig
-- 🌱 Learning: Continuously learning different programming languages and manufacturing fundamentals
-- 👯 Looking to collaborate on: Engineering + Software projects
+- 🔭 Working on: University Rover challenge Remote Communications Division || Formula SAE Ergonomic Jig.
+- 🌱 Learning: Continuously learning different programming languages and manufacturing fundamentals.
+- 👯 Looking to collaborate on: Engineering + Software projects.
 - 💬 Ask me about: CAD, Simulation, Programming, or anything Engineering!
 
 <!-- GitHub Stats -->
