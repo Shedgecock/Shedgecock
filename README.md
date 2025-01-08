@@ -44,7 +44,6 @@ I'm a Mechanical Engineer with a passion for Computer Science, bridging the gap 
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shedgecock&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shedgecock&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <!-- Connect Section -->
